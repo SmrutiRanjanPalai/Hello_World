@@ -2,4 +2,4 @@
 ## This repository is for exploratory purposes
 This is to be used for learning purposes
 
-Print <hello world>
+Print "Hello World"
